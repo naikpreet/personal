@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
-baseurl: "/personal" # the name of your github repo
-url: "https:/naikpreet.github.io" # the url of your github pages
+baseurl: "" # the name of your github repo
+url: "naikpreet.com" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Naikpreet M"
