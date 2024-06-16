@@ -4,7 +4,7 @@ url: "https:/naikpreet.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Naikpreet M"
-description: Full-stack web developer based near London, UK.
+description: Full-Stack Web Developer
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -15,7 +15,7 @@ author-bio: Full-Stack Developer  # change to false to hide
 author-image: Me.png  # file must be in the /assets/img/ folder
 
 # navigation menu
-show-nav-menu: true
+show-nav-menu: false
 
 nav-menu:
 - text: About
