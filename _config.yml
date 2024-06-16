@@ -18,10 +18,10 @@ author-image: Me.png  # file must be in the /assets/img/ folder
 show-nav-menu: false
 
 nav-menu:
-- text: About
-  permalink: about
-- text: Blog
-  permalink: blog
+# - text: About
+#   permalink: about
+# - text: Blog
+#   permalink: blog
 
 # use false to turn off any social media links
 twitter: false
