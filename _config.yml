@@ -3,14 +3,14 @@ baseurl: "" # the name of your github repo
 url: "naikpreet.com" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Naikpreet M"
+title: "Naikpreet Mahil"
 description: Full-Stack Web Developer
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Naikpreet M
+author: Naikpreet Mahil
 author-bio: Full-Stack Developer  # change to false to hide
 author-image: Me.png  # file must be in the /assets/img/ folder
 
